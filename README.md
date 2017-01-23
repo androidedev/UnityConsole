@@ -7,5 +7,4 @@ Simple unity in game console.
     - Optional capture and show of Unity standar log Debug.Log, Debug.LogWarning, etc.
     
     
-    
-    
+NOTE: Look at font & console color transparency if you don't see anything painted ;)
